@@ -1,0 +1,11 @@
+node_modules
+dist
+dist-ssr
+*.local
+.env
+.env.local
+.DS_Store
+.vite
+
+# KiroCrew 작업환경 설정 (앱 소스 아님)
+.kiro/
